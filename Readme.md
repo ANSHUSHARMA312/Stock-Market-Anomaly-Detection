@@ -143,7 +143,14 @@ The dashboard incorporates several statistical tools:
 - Educational and research purposes
 
 ---
-
+## Author
 ## 👨‍💻 Author
+---
+### Anshu Sharma
+B.Tech. Chemical Engineering  
+Indian Institute of Technology Kanpur
 
-Developed as part of the **MTH208 Data Analytics Project** using Python and Streamlit.
+Passionate about Data Analytics, Machine Learning, and Quantitative Modeling. This project demonstrates the application of statistical methods and time-series analysis for anomaly detection and forecasting in financial markets.
+
+**Tech Stack:** Python • Streamlit • Pandas • Plotly • Statsmodels
+---
